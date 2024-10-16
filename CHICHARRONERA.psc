@@ -1,6 +1,13 @@
 //ELABORA UN PROGRAMA PARA RESOLVER UNA ECUACIÓN DE SEGUNDO GRADO, TENIENDO EN?CUENTA LAS SOLUCIONES COMPLEJAS. (la chicharronera) 
 Algoritmo CHICHARRONERA
 	Escribir "BIENVENIDO A LA NUEVA SALVACIÓN DE TU CARERRA DE MATEMÁTICAS"
+	Escribir "BIENVENIDO A LA NUEVA SALVACIÓN DE TU CARERRA DE MATEMÁTICAS"
+	Mientras opción <> 2 Hacer
+		Escribir  "1 - INICIAR ALGORITMO"
+		Escribir  "2 - SALIR"
+		Leer opción
+		segun opción hacer
+			caso 1:
 	Escribir "Introduce el valor de a"
 	Leer a
 	Escribir "Introduce el valor de b"
@@ -36,7 +43,6 @@ Algoritmo CHICHARRONERA
 			Escribir "El resultado de x2 es: ", equisdos
 		Fin Si
 	Fin Si
-	
-	
-	
+FinSegun
+FinMientras
 FinAlgoritmo
