@@ -1,0 +1,30 @@
+Messi,Argentina,Inter Miami,90,Delantero,80,90,80,30,40,60
+Cristiano Ronaldo,Portugal,Al Nssr,91,Delantero,80,92,80,86,40,50
+Neymar Jr.,Brasil,Al Hilal,87,Delantero,90,90,87,99,30,30
+Karim Benzema,Francia,Al Ittihad,86,Delantero,70,96,60,70,40,70
+Kylian Mbapp�,Francia,Real Madrid,95,Delantero,96,90,70,90,40,60
+Vinicius Jr,Brasil,Real Madrid,98,Delantero,97,88,87,94,30,60
+Halaand,Noruega,Manchester City,97,Delantero,97,99,80,80,50,80
+Van Dijk,Paises Bajos,Liverpool,95,Defensa,80,60,90,60,98,97
+Salah,Egipto,Liverpool,93,Delantero,90,96,90,90,40,50
+Bellingham,Inglaterra,Real Madrid,96,Mediocampista,93,95,99,89,83,90
+Eder Militao,Brasil,Real Madrid,95,Defensa,90,60,90,60,97,99
+Rudiger,Alemania,Real Madrid,96,Defensa,90,70,98,50,99,98
+Musiala,Alemania,Bayern,98,Delantero,98,99,94,90,60,80
+Carvajal,Espa�a,Real Madrid,87,Defensa,82,60,90,90,80,70
+Harry Kane,Inglaterra,Bayern,91,Delantero,86,95,82,70,50,80
+K. De Bruyne,B�lgica,Manchester City,96,Medio Campista,92,80,99,80,70,70
+Bernardo Silva,Portugal,Manchester City,84,Mediocampista,87,93,96,90,50,70
+Camavinga,Francia,Francia,85,Mediocampista,90,80,94,95,90,90
+Saliba,Francia,Liverpool,94,Defensa,90,60,80,70,97,98
+Cortouis,B�lgica,Real Madrid,95,Portero,80,30,80,10,90,90
+Trent A.A,Inglaterra,Liverpool,93,Defensa,99,70,95,80,93,90
+Alphonso D.,Canad�,Bayern,93,Defensa,99,80,95,93,90,87
+Rodrygo,Brasil,Real Madrid,97,Delantero,99,90,86,93,60,80
+Arda G�ler,Turqu�a,Real Madrid,79,Delantero,85,80,69,75,50,70
+Lamine Yamal,Espa�a,Barca,86,Delantero,90,86,80,80,50,70
+Lewandowski,Polonia,Barca,93,Delantero,87,95,90,83,40,70
+R. Leao,Portugal,AC Mil�n,86,Delantero,94,86,90,90,56,87
+O. Dembel�,Francia,PSG,87,Delantero,99,87,90,87,60,70
+Maignan,Francia,AC Mil�n,87,Portero,89,20,80,10,89,95
+Dibu,Argentina,Aston Villa,89,Portero,89,10,20,10,90,999999999999999999999
